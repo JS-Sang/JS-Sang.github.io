@@ -13,7 +13,7 @@ Previously, I studied Communication for two years in China.
 
 My research focuses on human-ai interaction (HAI), with an emphasis on using nlp technology to enhance human-ai trust and collaboration. My dream is to help professionals and novices alike improve work efficiency ,promote equitable access to AI tools and expand the boundaries of human creativity. .
 
-I am very fortunate to be advised by [Prof.Lu He](https://luheholly.com/),Prof[Wei Xiang](https://person.zju.edu.cn/en/0617496)and[Dr.Changyang He](https://hechangyang.com/)
+I am very fortunate to be advised by [Prof.Lu He](https://luheholly.com/), Prof[Wei Xiang](https://person.zju.edu.cn/en/0617496) and [Dr.Changyang He](https://hechangyang.com/)
 
 You can find my cv here :[Yuhang's CV](../assets/cv.pdf)
 
